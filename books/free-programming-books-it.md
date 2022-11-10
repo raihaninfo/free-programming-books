@@ -111,7 +111,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) (PDF)
+* [Dispense del corso di Programmazione I con Laboratorio](https://www.dmi.unipg.it/~baioletti/didattica/materiale/dispense-progr1-c++.pdf) - Marco Baioletti (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) (PDF)
 
 
@@ -266,7 +266,6 @@
 
 * [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
 * [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML
